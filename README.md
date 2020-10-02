@@ -9,9 +9,6 @@
          />
    </head>
    <body>
-       <a href="Money.html">
-         Money
-      </a>
       <h1>Muskoni kindana chudu..</h1><h1>Dabbulu evariki entha ochayo telustadhi</h1>
       <table>
          <tr>
