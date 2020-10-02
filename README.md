@@ -7,13 +7,8 @@
          type="text/css"
          href="web.css"
          />
-      <style>
    </head>
    <body>
-       <a href="Dabbulu Urike Raavu.html">
-         Home
-      </a>
-      &nbsp
        <a href="Money.html">
          Money
       </a>
@@ -203,5 +198,48 @@
             <td>Total</td><td></td><td>7</td><td></td><td>-0.16667</td><td></td><td>49</td><td></td><td>-30.6667</td><td></td><td>1.8333</td><td></td><td>-36.1666</td><td></td><td>9.16667</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
       </table>
+      <h1>
+          Money dealings
+      </h1>
+      <table>
+        <tr><td>Members</td><td></td>
+           <td>Money dealings</td></tr>
+        <tr><td>If 5 members</td><td></td>
+           <td>5th to 1st :-10rs</td></tr>
+        <tr><td></td><td></td>
+           <td>4th to 2nd :-5rs</td></tr>
+        <tr><td></td><td></td>
+           <td>3rd:- em undadhu</td></tr>
+        <tr><td>If 4 members</td><td></td>
+           <td>Eliminate 3rd position</td></tr>
+        <tr><td></td><td></td>
+           <td>in 5 members model</td></tr>       
+        <tr><td>If 3 members</td><td></td>
+           <td>3rd to 1st:-10rs</td></tr>
+        <tr><td></td><td></td>
+           <td>2nd:-em undadhu</td></tr>
+        <tr><td>If 6 members</td><td></td>
+           <td>6th to 1st :-10rs</td></tr>
+        <tr><td></td><td></td>
+           <td>5th to 2nd :-7rs</td></tr>
+        <tr><td></td><td></td>
+           <td>4th to 3rd :-5 rs</td></tr>
+        <tr><td>If 7 members</td><td></td>
+           <td>7th to 1st :-10rs</td></tr>
+        <tr><td></td><td></td>
+           <td>6th to 2nd:-7rs</td></tr>
+        <tr><td></td><td></td>
+           <td>5th to 3rd :-5 rs</td></tr>
+        <tr><td></td><td></td>
+           <td>4th ki em undadhu</td></tr>
+        <tr><td>If 8 members</td><td></td>
+           <td>8th to 1st :-10rs</td></tr>
+        <tr><td></td><td></td>
+           <td>7th to 2nd:-8rs</td></tr>
+        <tr><td></td><td></td>
+           <td>6th to 3rd :-6rs</td></tr>
+        <tr><td></td><td></td>
+           <td>5th to 4th :-5rs</td></tr>
+   </table>
    </body>
 </html>
