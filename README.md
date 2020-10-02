@@ -39,16 +39,16 @@
             <td>9</td><td></td><td>5</td><td></td><td>0</td><td></td><td>0</td><td></td><td>3</td><td></td><td>6</td><td></td><td>-10</td><td></td><td>-4</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>10</td><td></td><td>17.5</td><td></td><td>-2.5</td><td></td><td>13.5</td><td></td><td>-5</td><td></td><td>-16</td><td></td><td>15.5</td><td></td><td>-15</td><td></td><td>-8</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>11</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>11</td><td></td><td>-15</td><td></td><td>10</td><td></td><td>14.6667</td><td></td><td>-18</td><td></td><td>5</td><td></td><td>0.6667</td><td></td><td>12.6667</td><td></td><td>-10</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>12</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>12</td><td></td><td>3</td><td></td><td>0</td><td></td><td>20</td><td></td><td>-20</td><td></td><td>-5</td><td></td><td>5</td><td></td><td>-3</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>13</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>13</td><td></td><td>-20</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>20</td><td></td><td>-7</td><td></td><td>7</td><td></td><td>0</td>
          </tr>
          <tr>
             <td>14</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
