@@ -1,12 +1,12 @@
 
 	body{
-		background: gray;
+		background: black;
 		color: lightgray;
 		font-family:serif;
 		font-size: 20pt;
 	}
 	H1{
-			color:lightgray;
+			color:white;
 			font-family:cursive;
 			font-size: 30pt;
 		}
