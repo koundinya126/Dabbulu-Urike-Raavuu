@@ -9,6 +9,7 @@
          />
    </head>
    <body>
+    <STYLE>A {text-decoration: none;} </STYLE>
       <h1>Muskoni kindana chudu..</h1><h1>Dabbulu evariki entha ochayo telustadhi</h1>
       <table>
          <tr>
