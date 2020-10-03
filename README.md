@@ -4,8 +4,8 @@
             href ="Logo_of_Dream11.png" 
             type = "image/x-icon">
    </head>
-   <body style="background-color:black;">
-      <h1 style="background-color:white;">Muskoni kindana chudu..</h1><h1 style="background-color:white;">Dabbulu evariki entha ochayo telustadhi</h1>
+   <body>
+      <h1 >Muskoni kindana chudu..</h1><h1>Dabbulu evariki entha ochayo telustadhi</h1>
       <table>
          <tr>
             <th>Match number</th><th></th>
@@ -191,10 +191,10 @@
             <td>Total</td><td></td><td>-14.5</td><td></td><td>7.3333</td><td></td><td>92.1667</td><td></td><td>-73.6667</td><td></td><td>-4.1667</td><td></td><td>10.0001</td><td></td><td>3.8337</td><td></td><td>-11</td><td></td><td>-10</td>
          </tr>
       </table>
-      <h1 style="background-color:white;">
+      <h1>
           Money dealings
       </h1>
-      <table style="background-color:lightgray;">
+      <table>
         <tr><td>Members</td><td></td>
            <td>Money dealings</td></tr>
         <tr><td>If 5 members</td><td></td>
