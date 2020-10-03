@@ -4,7 +4,7 @@
             href ="Logo_of_Dream11.png" 
             type = "image/x-icon">
    </head>
-   <body>
+   <body style="background-color:gray;">
     <STYLE>A {text-decoration: none;} </STYLE>
       <h1>Muskoni kindana chudu..</h1><h1>Dabbulu evariki entha ochayo telustadhi</h1>
       <table>
