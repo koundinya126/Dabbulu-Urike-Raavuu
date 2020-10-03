@@ -3,10 +3,6 @@
       <link rel = "icon" 
             href ="Logo_of_Dream11.png" 
             type = "image/x-icon">
-        <link rel="stylesheet"
-         type="text/css"
-         href="web.css"
-         />
    </head>
    <body>
     <STYLE>A {text-decoration: none;} </STYLE>
