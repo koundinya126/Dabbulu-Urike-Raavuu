@@ -191,9 +191,9 @@
             <td>Total</td><td></td><td>-19.5</td><td></td><td>7.3333</td><td></td><td>85.5</td><td></td><td>-73.6667</td><td></td><td>-9.1667</td><td></td><td>20.3331</td><td></td><td>17.16637</td><td></td><td>-11</td><td></td><td>-17</td>
          </tr>
       </table>
-      <h1>
+      <h2>
           Money dealings
-      </h1>
+      </h2>
       <table>
         <tr><td>Members</td><td></td>
            <td>Money dealings</td></tr>
