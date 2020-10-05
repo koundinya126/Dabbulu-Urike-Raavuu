@@ -188,7 +188,7 @@
             <td>Final</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>8.8333</td><td></td><td>-2.6667</td><td></td><td>88.833</td><td></td><td>-73.6667</td><td></td><td>-32.1667</td><td></td><td>25.3331</td><td></td><td>24.49967</td><td></td><td>-11</td><td></td><td>-26 </td>
+            <td>Total</td><td></td><td>8.8333</td><td></td><td>-2.6667</td><td></td><td>88.833</td><td></td><td>-73.6667</td><td></td><td>-32.1667</td><td></td><td>25.3331</td><td></td><td>24.49967</td><td></td><td>-11</td><td></td><td>-26</td>
          </tr>
       </table>
       <h2>
