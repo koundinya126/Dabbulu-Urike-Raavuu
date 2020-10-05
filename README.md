@@ -59,7 +59,7 @@
             <td>17</td><td></td><td>15</td><td></td><td>0</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>-15</td><td></td><td>-7</td><td></td><td>7</td><td></td><td>0</td><td></td><td>5</td>
          </tr>
          <tr>
-            <td>18</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>18</td><td></td><td>-1.667</td><td></td><td>0</td><td></td><td>13.333</td><td></td><td>0</td><td></td><td>-3</td><td></td><td>5</td><td></td><td>-6.6667</td><td></td><td>0</td><td></td><td>-7</td>
          </tr>
          <tr>
             <td>19</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
@@ -188,7 +188,7 @@
             <td>Final</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>10.5</td><td></td><td>-2.6667</td><td></td><td>75.5</td><td></td><td>-73.6667</td><td></td><td>-29.1667</td><td></td><td>20.3331</td><td></td><td>29.16637</td><td></td><td>-11</td><td></td><td>-19</td>
+            <td>Total</td><td></td><td>8.8333</td><td></td><td>-2.6667</td><td></td><td>88.833</td><td></td><td>-73.6667</td><td></td><td>-32.1667</td><td></td><td>25.3331</td><td></td><td>24.49967</td><td></td><td>-11</td><td></td><td>-26</td>
          </tr>
       </table>
       <h2>
