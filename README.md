@@ -188,6 +188,24 @@
             <td>Final</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
+            <td>PAK Vs ZIM 1st ODI</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+         </tr>
+         <tr>
+            <td>PAK Vs ZIM 2nd ODI</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+         </tr>
+         <tr>
+            <td>PAK Vs ZIM 3rd ODI</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+         </tr>
+         <tr>
+            <td>PAK Vs ZIM 1st T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+         </tr>
+         <tr>
+            <td>PAK Vs ZIM 2nd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+         </tr>
+         <tr>
+            <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+         </tr>
+         <tr>
             <td>Total</td><td></td><td>7.8333</td><td></td><td>-12.6667</td><td></td><td>89.833</td><td></td><td>-73.6667</td><td></td><td>-28.1667</td><td></td><td>23.3331</td><td></td><td>52.49967</td><td></td><td>-16</td><td></td><td>-43</td>
          </tr>
       </table>
