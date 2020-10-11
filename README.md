@@ -80,7 +80,7 @@
             <td>24</td><td></td><td>20</td><td></td><td>0</td><td></td><td>-20</td><td></td><td>0</td><td></td><td>-5</td><td></td><td>5</td><td></td><td>-7</td><td></td><td>0</td><td></td><td>7</td>
          </tr>
          <tr>
-            <td>25</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>25</td><td></td><td>-17</td><td></td><td>0</td><td></td><td>17</td><td></td><td>0</td><td></td><td>-15</td><td></td><td>20</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
             <td>26</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
@@ -206,7 +206,7 @@
             <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>11.1633</td><td></td><td>-30.6667</td><td></td><td>79.833</td><td></td><td>-73.6667</td><td></td><td>-46.1667</td><td></td><td>43.6631</td><td></td><td>43.49967</td><td></td><td>-16</td><td></td><td>-11</td>
+            <td>Total</td><td></td><td>-5.837</td><td></td><td>-30.6667</td><td></td><td>96.833</td><td></td><td>-73.6667</td><td></td><td>-61.1667</td><td></td><td>63.6631</td><td></td><td>38.49967</td><td></td><td>-16</td><td></td><td>-11</td>
          </tr>
       </table>
       <h2>
