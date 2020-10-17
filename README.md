@@ -206,7 +206,7 @@
             <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>-28.3367</td><td></td><td>-40.0067</td><td></td><td>153.493</td><td></td><td>-73.6667</td><td></td><td>-61.3267</td><td></td><td>61.1631</td><td></td><td>7.66967</td><td></td><td>-18</td><td></td><td>-1</td>
+            <td>Total</td><td></td><td>-23.3367</td><td></td><td>-40.0067</td><td></td><td>138.493</td><td></td><td>-73.6667</td><td></td><td>-37.3277</td><td></td><td>42.4971</td><td></td><td>14.33567</td><td></td><td>-18</td><td></td><td>-3</td>
          </tr>
       </table>
       <h2>
