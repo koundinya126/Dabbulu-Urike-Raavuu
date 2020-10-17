@@ -101,10 +101,10 @@
             <td>31</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>40</td><td></td><td>0</td><td></td><td>-17</td><td></td><td>-3</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>-10</td>
          </tr>
          <tr>
-            <td>32</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>32</td><td></td><td>-3.333</td><td></td><td>0</td><td></td><td>-15</td><td></td><td>0</td><td></td><td>13.666</td><td></td><td>-17</td><td></td><td>16.666</td><td></td><td>0</td><td></td><td>5</td>
          </tr>
          <tr>
-            <td>33</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>33</td><td></td><td>8.333</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>10.333</td><td></td><td>-1.666</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>-7</td>
          </tr>
          <tr>
             <td>34</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
