@@ -125,10 +125,10 @@
             <td>39</td><td></td><td>-17</td><td></td><td>-10</td><td></td><td>1.666</td><td></td><td>0</td><td></td><td>16.666</td><td></td><td>-3.333</td><td></td><td>5</td><td></td><td>0</td><td></td><td>7</td>
          </tr>
          <tr>
-            <td>40</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>40</td><td></td><td>-6.66</td><td></td><td>7</td><td></td><td>-15</td><td></td><td>0</td><td></td><td>-3.666</td><td></td><td>13.333</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td>
          </tr>
          <tr>
-            <td>41</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>41</td><td></td><td>20</td><td></td><td>-10</td><td></td><td>10</td><td></td><td>0</td><td></td><td>-3</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>-7</td>
          </tr>
          <tr>
             <td>42</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
@@ -206,7 +206,7 @@
             <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>-63.8367</td><td></td><td>-29.0067</td><td></td><td>167.159</td><td></td><td>-73.6667</td><td></td><td>-63.6617</td><td></td><td>35.6641</td><td></td><td>26.33567</td><td></td><td>-18</td><td></td><td>18</td>
+            <td>Total</td><td></td><td>-50.4967</td><td></td><td>-32.0067</td><td></td><td>162.159</td><td></td><td>-73.6667</td><td></td><td>-69.3277</td><td></td><td>48.9971</td><td></td><td>16.33567</td><td></td><td>-18</td><td></td><td>16</td>
          </tr>
       </table>
       <h2>
