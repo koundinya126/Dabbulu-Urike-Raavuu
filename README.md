@@ -210,7 +210,7 @@
          </tr>
       </table>
       <h2>
-          Money dealings
+          Money dealings 
       </h2>
       <table>
         <tr><td>Members</td><td></td>
