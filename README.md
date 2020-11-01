@@ -249,7 +249,7 @@
            <td>7th to 2nd:-8rs</td></tr>
         <tr><td></td><td></td>
            <td>6th to 3rd :-6rs</td></tr>
-        <tr><td></td><td></td>
+        <tr><td></td><td></td> 
            <td>5th to 4th :-5rs</td></tr>
    </table>
    </body>
