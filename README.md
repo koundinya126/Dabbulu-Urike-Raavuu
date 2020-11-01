@@ -158,10 +158,10 @@
             <td>50</td><td></td><td>-10</td><td></td><td>15</td><td></td><td>25</td><td></td><td>0</td><td></td><td>-20</td><td></td><td>-10</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>5</td>
          </tr>
          <tr>
-            <td>51</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>51</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td><td></td><td>0</td><td></td><td>-10</td>
          </tr>
          <tr>
-            <td>52</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>52</td><td></td><td>0</td><td></td><td>20</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-5</td>
          </tr>
          <tr>
             <td>53</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
@@ -206,7 +206,7 @@
             <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>-71.4974</td><td></td><td>17.9923</td><td></td><td>170.159</td><td></td><td>-73.6667</td><td></td><td>-89.6617</td><td></td><td>57.3305</td><td></td><td>-10.66433</td><td></td><td>-18</td><td></td><td>18</td>
+            <td>Total</td><td></td><td>-76.4974</td><td></td><td>37.9923</td><td></td><td>180.159</td><td></td><td>-73.6667</td><td></td><td>-99.6617</td><td></td><td>52.3305</td><td></td><td>-5.66433</td><td></td><td>-18</td><td></td><td>3</td>
          </tr>
       </table>
       <h2>
