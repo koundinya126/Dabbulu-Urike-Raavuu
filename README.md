@@ -164,16 +164,16 @@
             <td>52</td><td></td><td>0</td><td></td><td>20</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-5</td>
          </tr>
          <tr>
-            <td>53</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>53</td><td></td><td>15</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>54</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>54</td><td></td><td>5</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>5</td><td></td><td>-10</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>55</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>55</td><td></td><td>10</td><td></td><td>8</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>-20</td><td></td><td>0</td><td></td><td>7</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>56</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>56</td><td></td><td>-15</td><td></td><td>20</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td>
          </tr>
          <tr>
             <td>Qualifier 1</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
@@ -191,10 +191,10 @@
             <td>PAK Vs ZIM 1st ODI</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-5</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td>
          </tr>
          <tr>
-            <td>PAK Vs ZIM 2nd ODI</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>PAK Vs ZIM 2nd ODI</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>10</td>
          </tr>
          <tr>
-            <td>PAK Vs ZIM 3rd ODI</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>PAK Vs ZIM 3rd ODI</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td><td></td><td>0</td><td></td><td>-5</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>10</td>
          </tr>
          <tr>
             <td>PAK Vs ZIM 1st T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
@@ -206,7 +206,7 @@
             <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>-76.4974</td><td></td><td>37.9923</td><td></td><td>180.159</td><td></td><td>-73.6667</td><td></td><td>-99.6617</td><td></td><td>52.3305</td><td></td><td>-5.66433</td><td></td><td>-18</td><td></td><td>3</td>
+            <td>Total</td><td></td><td>-61.4974</td><td></td><td>65.9923</td><td></td><td>140.159</td><td></td><td>-73.6667</td><td></td><td>-129.6617</td><td></td><td>47.3305</td><td></td><td>1.33567</td><td></td><td>-18</td><td></td><td>28</td>
          </tr>
       </table>
       <h2>
@@ -249,7 +249,7 @@
            <td>7th to 2nd:-8rs</td></tr>
         <tr><td></td><td></td>
            <td>6th to 3rd :-6rs</td></tr>
-        <tr><td></td><td></td> 
+        <tr><td></td><td></td>
            <td>5th to 4th :-5rs</td></tr>
    </table>
    </body>
