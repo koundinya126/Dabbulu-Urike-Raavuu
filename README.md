@@ -176,10 +176,10 @@
             <td>56</td><td></td><td>-15</td><td></td><td>20</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td>
          </tr>
          <tr>
-            <td>Qualifier 1</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>Qualifier 1</td><td></td><td>-5</td><td></td><td>5</td><td></td><td>15</td><td></td><td>0</td><td></td><td>-15</td><td></td><td>-7</td><td></td><td>0</td><td></td><td>0</td><td></td><td>7</td>
          </tr>
          <tr>
-            <td>Eliminator</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>Eliminator</td><td></td><td>20</td><td></td><td>10</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>-15</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
             <td>Qualifier 2</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
@@ -206,7 +206,7 @@
             <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>-61.4974</td><td></td><td>65.9923</td><td></td><td>140.159</td><td></td><td>-73.6667</td><td></td><td>-129.6617</td><td></td><td>47.3305</td><td></td><td>1.33567</td><td></td><td>-18</td><td></td><td>28</td>
+            <td>Total</td><td></td><td>-46.4974</td><td></td><td>80.9923</td><td></td><td>150.159</td><td></td><td>-73.6667</td><td></td><td>-159.6617</td><td></td><td>40.3305</td><td></td><td>-8.656</td><td></td><td>-18</td><td></td><td>35</td>
          </tr>
       </table>
       <h2>
