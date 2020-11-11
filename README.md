@@ -6,6 +6,7 @@
    </head>
    <body>
       <h1>Ipoindhi.... Antha ipoindhi...<h1>
+         <h1>WEBSITE CREATION AND MAINTENANCE CHARGE : 50/-<h1>
       <h1>Muskoni kindana chudu..</h1><h1>Dabbulu evariki entha ochayo telustadhi</h1>
       <table>
          <tr>
