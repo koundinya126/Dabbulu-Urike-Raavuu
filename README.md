@@ -5,7 +5,8 @@
             type = "image/x-icon">
    </head>
    <body>
-      <h1 >Muskoni kindana chudu..</h1><h1>Dabbulu evariki entha ochayo telustadhi</h1>
+      <h1>Ipoindhi.... Antha ipoindhi...<h1>
+      <h1>Muskoni kindana chudu..</h1><h1>Dabbulu evariki entha ochayo telustadhi</h1>
       <table>
          <tr>
             <th>Match number</th><th></th>
@@ -182,10 +183,10 @@
             <td>Eliminator</td><td></td><td>20</td><td></td><td>10</td><td></td><td>-5</td><td></td><td>0</td><td></td><td>-15</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Qualifier 2</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>Qualifier 2</td><td></td><td>7</td><td></td><td>-17</td><td></td><td>30</td><td></td><td>0</td><td></td><td>-15</td><td></td><td>5</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-10</td>
          </tr>
          <tr>
-            <td>Final</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>Final</td><td></td><td>8.33</td><td></td><td>0</td><td></td><td>-20</td><td></td><td>0</td><td></td><td>-1.66</td><td></td><td>13.33</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
             <td>PAK Vs ZIM 1st ODI</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-5</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>5</td>
@@ -200,13 +201,16 @@
             <td>PAK Vs ZIM 1st T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>PAK Vs ZIM 2nd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>PAK Vs ZIM 2nd T20I</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
+            <td>PAK Vs ZIM 3rd T20I</td><td></td><td>0</td><td></td><td>0</td><td></td><td>10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>-10</td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td>
          </tr>
          <tr>
-            <td>Total</td><td></td><td>-46.4974</td><td></td><td>80.9923</td><td></td><td>150.159</td><td></td><td>-73.6667</td><td></td><td>-159.6617</td><td></td><td>40.3305</td><td></td><td>-8.656</td><td></td><td>-18</td><td></td><td>35</td>
+            <td>Total</td><td></td><td>-41.1674</td><td></td><td>63.9923</td><td></td><td>180.159</td><td></td><td>-73.6667</td><td></td><td>-176.3217</td><td></td><td>48.6605</td><td></td><td>-8.656</td><td></td><td>-18</td><td></td><td>25</td>
+         </tr>
+         <tr>
+            <td>Final amounts</td><td></td><td>-41</td><td></td><td>64</td><td></td><td>180</td><td></td><td>-74</td><td></td><td>-176</td><td></td><td>49</td><td></td><td>-9</td><td></td><td>-18</td><td></td><td>25</td>
          </tr>
       </table>
       <h2>
